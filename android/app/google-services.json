@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866652778571",
+    "project_id": "sanskar-pg-app",
+    "storage_bucket": "sanskar-pg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866652778571:android:dc153152376df5292e9dce",
+        "android_client_info": {
+          "package_name": "com.example.sanskar_pg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866652778571-9lgfvgitqfm0sfk8gb12j8nn2bj9mlta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWaq-1ZMXxNbZ8IkONCLOEM2oziMczdOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866652778571-9lgfvgitqfm0sfk8gb12j8nn2bj9mlta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
