@@ -1,4 +1,4 @@
-# Sanskar PG Admin App
+# Sanskar PG App
 
 <h3 style="font-size: 18px; letter-spacing: 1.2px">SCREEN SHOTS</h3>
 
